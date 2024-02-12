@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="CalvinKlein.css"/>
+        <title>CalvinKlein </title>
+    </head>
+ 			
+    <body>
+<style type="text/css"> 
+a:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
+    	<nav class="navbar navbar-light bg-light">
+    <a class="search-brand"></a>
+      <form class="form-inline">
+        <input class="form-control mr-sm-2" type="Rechercher un produit, une marque" placeholder="Rechercher un produit, une marque" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+</nav>
+         <P> 
+                <a href="montre.jpg"><img src="images/montre.jpg"  class="Montre "alt="Montre CK"/>
+                </a>
+                 <a href="boxers.jpg"><img src="images/boxers.jpg" class="boxers" alt="boxers"/>
+                </a> 
+                <a href="casquettes.jpg"><img src="images/casquettes.jpg"  class="casquettes"alt="casquettes"/>
+                </a>
+                 
+            </P>
+        <div class="info15">
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info"> CK </a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info">Montres</a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info prix">899TND </a>
+        </div>
+        <div class="info16">
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info"> CK </a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info">Pack 3 Boxers pour homme</a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info prix">99TND </a>
+        </div>
+          <div class="info17">
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info"> CK</a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info">Casquettes</a><br>
+            <a style="color:black;" href="CalvinKlein-COURT-VISION-LOW.html"  class="carousel_info prix">59TND </a>
+        </div>
+    </body>
+</html>
