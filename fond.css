@@ -1,0 +1,87 @@
+body 
+{
+	background-color: #EEEEEE
+}
+div
+{
+	top: 0px
+	text-align:center;
+}
+
+h1
+{
+	color:black;
+	text-shadow: 2px 3px 3px black;
+	text-align:center;  
+}
+
+.logo
+{
+     width: 110px;
+	 height: 110px;
+}
+
+.avata
+ {
+ 	width: 40px;
+ 	height: 40px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:20%;
+    left: calc(86% - 86px);
+
+}
+ .like
+ {
+ 	width: 40px;
+ 	height: 40px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:20%;
+    left: calc(94% - 94px);
+
+}
+.panier
+ {
+ 	width: 40px;
+ 	height: 40px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:20%;
+    left: calc(101% - 101px);
+
+}
+.login
+{
+    border-radius:50% ;
+    position: absolute;
+    top:25%;
+    left: calc(84.3% - 84.3px);
+    color:black;
+}
+.coeur
+{
+    border-radius:50% ;
+    position: absolute;
+    top:25%;
+    left: calc(92% - 92px);
+    color:black;
+}
+.normal
+{
+    border-radius:50% ;
+    position: absolute;
+    top:25%;
+    left: calc(100% - 100px);
+    color:black;
+}
+p 
+{
+	text-align: center;
+
+}
+.slides
+{
+	 width: 1580px;
+	 height: 473px;
+}
