@@ -1,0 +1,65 @@
+.navbar
+{
+    font-size: 18px;
+    border-radius:50% ;
+    position: absolute;
+    top:5%;
+    left: calc(90% - 90px);
+    color:black;
+}
+.polo
+{
+ 	width: 250px;
+ 	height: 250px
+ 	border-radius:50% ;
+    position: absolute;
+    top:18%;
+    left: calc(20% - 20px);
+ }
+ .eaudeparfun
+ {
+ 	width: 250px;
+ 	height: 250px
+ 	border-radius:50% ;
+    position: absolute;
+    top:18%;
+    left: calc(50% - 50px);
+ }
+ .masques
+ {
+ 	width: 250px;
+ 	height: 250px
+ 	border-radius:50% ;
+    position: absolute;
+    top:25%;
+    left: calc(80% - 80px);
+ }
+ 
+
+ .info12
+ {
+ 	font-size: 18px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:55%;
+    left: calc(21% - 21px);
+    color:black;
+ }
+ .info13
+ {
+ 	font-size: 18px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:55%;
+    left: calc(51% - 51px);
+    color:black;
+ }
+ .info14
+ {
+ 	font-size: 18px;
+ 	border-radius:50% ;
+    position: absolute;
+    top:55%;
+    left: calc(81% - 81px);
+    color:black;
+ }
