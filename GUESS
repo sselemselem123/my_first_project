@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <link rel="stylesheet" href="guess.css"/>
+        <title>GUESS </title>
+    </head>
+ 			
+    <body>
+<style type="text/css"> 
+a:link 
+{ 
+ text-decoration:none; 
+} 
+</style>
+        <nav class="navbar navbar-light bg-light">
+    <a class="search-brand"></a>
+      <form class="form-inline">
+        <input class="form-control mr-sm-2" type="Rechercher un produit, une marque" placeholder="Rechercher un produit, une marque" aria-label="Search">
+          <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Search</button>
+      </form>
+</nav>
+         <P> 
+                <a href="sac.jpg"><img src="images/sac.jpg"  class="sac "alt="Sac GUESS"/>
+                </a>
+                 <a href="lunette.jpg"><img src="images/lunette.jpg" class="lunette" alt="Lunette GEUSS"/>
+                </a> 
+                <a href="ceintures.jpg"><img src="images/ceintures.jpg"  class="ceintures"alt="Ceintures GEUSS"/>
+                </a>
+                 
+            </P>
+        <div class="info18">
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info"> GUESS </a><br>
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info">Sac</a><br>
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info prix">1500TND </a>
+        </div>
+        <div class="info19">
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info"> GUESS </a><br>
+            <a style="color:black;" href="GEUSS-COURT-VISION-LOW.html"  class="carousel_info">Lunette</a><br>
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info prix">999TND </a>
+        </div>
+          <div class="info20">
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info"> GUESS</a><br>
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info">Ceintures</a><br>
+            <a style="color:black;" href="GUESS-COURT-VISION-LOW.html"  class="carousel_info prix">159TND </a>
+        </div>
+    </body>
+</html>
